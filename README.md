@@ -36,18 +36,3 @@ Hello and welcome to my Github profile 👋. I am Jst Tan!
 ## Social Media
 ### Twitter
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jestonjst)](https://github.com/gazf/github-readme-twitter)
-
-### Facebook
- <div id="fb-root"></div>
-    <script>
-    (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id))
-    return;
-    js = d.createElement(s);
-    js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-    fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-    </script>
-    <div class="fb-post" data-href="https://www.facebook.com/jeston.tan.21"></div>
