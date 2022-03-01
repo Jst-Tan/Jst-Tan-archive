@@ -8,6 +8,7 @@ Hello and welcome to my Github profile 👋. I am Jst Tan!
 - Country: MY {Malaysia} (UTC+8)
 - Codes: HTML, CSS and JavaScript
 - OS: MacOS
+- Team: One Future Web (OFW)
 
 ## Facts
 - I am a hardcore fan of PJ Masks since 2020. 
