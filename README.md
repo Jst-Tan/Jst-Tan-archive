@@ -8,7 +8,7 @@ Hello and welcome to my Github profile 👋. I am Jst Tan!
 - Country: MY {Malaysia} (UTC+8)
 - Codes: HTML, CSS and JavaScript
 - OS: MacOS
-- Team: One Future Unified Team
+- Team: JstMStudio
 
 ## Facts
 - I am a hardcore fan of PJ Masks since 2020. 
@@ -22,8 +22,8 @@ Hello and welcome to my Github profile 👋. I am Jst Tan!
   - I mostly write PJ Masks fan fiction story for now. 
 - I active in Facebook and Twitter. DMs are kinda full so please do not spam mine dms. 
 - I created ApadoTech and also the one who closed it. 
-- I currently fully own and founded One Future Unified Team, a indie team focused in privacy and technology. 
-  - I also the current team manager, finances and developer of One Future Unified Team.  
+- I currently fully own and founded JstMStudio, a indie team focused in privacy and technology. 
+  - I also the current team manager, finances and developer of JstMStudio.  
   - I also the main creator and writer of Teenager Heroes. 
 
 
@@ -32,11 +32,14 @@ Hello and welcome to my Github profile 👋. I am Jst Tan!
   - 23 February 2022 - present
   - Owner, Team Leader, Developer
 - One Future Unified Team
-  - 23 April 2022 - present
+  - 23 April 2022 - 12 September 2022
   - CEO, CCO, COS, CTO and Finance Manager
 - PJ Masks Save The Day Project
   - 15 June 2022 - present
   - Owner, Manager and Developer
+- JstMStudio
+  - 17 September 2022 - present
+  - Developer, Owner and Writer
 
 ## Social Media List
 - <a href="https://www.facebook.com/JestonJst">Facebook</a>
