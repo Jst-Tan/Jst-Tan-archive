@@ -1,8 +1,8 @@
 <h1>Template</h1>
 <h2>Author: Jst Tan</h2>
 <h3>Date: 00/00/0000</h3>
-<p></p>
-<p></p>
+<p>Lorem Ipsum</p>
+<p>Lorem Ipsum</p>
 <br>
 <hr>
 <br>
