@@ -1,6 +1,6 @@
 <h1>Template</h1>
-<p style="font-weight:bold;">Author: Jst Tan</p>
-<p style="font-weight:bold;">Date: 00/00/0000</p>
+<h3>Author: Jst Tan</h3>
+<h3>Date: 00/00/0000</h3>
 <p>Lorem Ipsum</p>
 <p>Lorem Ipsum</p>
 <br>
