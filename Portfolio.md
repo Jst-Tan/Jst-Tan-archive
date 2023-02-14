@@ -16,6 +16,8 @@ One Future Web is a web development team that focus on making a better future In
 ## ApadoTech (January 2021-January 2022)
 
 
+<hr>
+
 # Projects
 ## Teenager Heroes (June 2022-Current)
 
