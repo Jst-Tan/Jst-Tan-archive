@@ -3,4 +3,4 @@
 
 <p>JstMStudio Super App is a multipurpose all-in-one super app that contains many features like video-streaming, to-do, contact management system and much more. </p>
 
-<p>JstMStudio Super App</p>
+<p>JstMStudio Super App is currently coded in HTML, CSS and JavaScript, and licensed under JstMStudio Public Code License 2.0. All source code is available in Github.</p>
