@@ -51,3 +51,12 @@ Hello and welcome to my Github profile 👋. I am Jst Tan!
 ## Social Media Feeds
 ### Twitter
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jestonjst)](https://github.com/gazf/github-readme-twitter)
+
+<br>
+<hr>
+<br>
+<img src="Image/Profile.jpg" style="width:100%;height:100px;"></img>
+<h1>Jst Tan</h1>
+
+<h2>My Github Stats</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
