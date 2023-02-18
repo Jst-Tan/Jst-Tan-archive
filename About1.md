@@ -1,15 +1,12 @@
-## Hi there 👋, My Name is Jst Tan
-### I am A Web Developer
-#### Remember to follow me to get my latest updates
-![I am A Web Developer](https://jstmstudio.tk)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jst-Tan&left_color=green&right_color=red)
-![Jst Tan GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Jst-Tan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jst-Tan&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Jst Tan
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Jst+Tan+profile!;I+am+a+frontend+web+developer.;I+am+a+story+writer.;Remember+to+follow+me+here!)](https://git.io/typing-svg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: HTML & CSS & JavaScript
+
+## Badge
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 ## Facts About Me
 - 🎂 Birthday: May 21
@@ -20,7 +17,9 @@ Skills: HTML & CSS & JavaScript
 - 💼 Team: JstMStudio
 - ❤️ My hobby: 
   - 👨‍💻 Web Developer
-  - ✍️ Stori writing
+  - ✍️ Story writing
+- 👍 Skills: 
+  - Code: HTML & CSS   
 - 👨‍💻 I am a frontend web developer. 
   - I developed websites and web app. 
   - I am a self taught devs. 
@@ -55,5 +54,6 @@ Skills: HTML & CSS & JavaScript
 - <a href="https://app.revolt.chat">Revolt (@Jst_Tan)</a>
 
 ## My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jst-Tan&show_icons=true&theme=transparent)
+![Jst Tan GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Jst-Tan)
 
