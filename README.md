@@ -54,6 +54,7 @@
 <h3>I am A Web Developer</h3>
 ![I am A Web Developer](https://jstmstudio.tk)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jsttan&left_color=green&right_color=red)
+![Jst Tan GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jsttan)
 {{ COMMITS }}
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
