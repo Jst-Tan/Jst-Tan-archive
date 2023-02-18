@@ -1,9 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Jst Tan
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Jst+Tan+profile!;I+am+a+frontend+web+developer.;I+am+a+story+writer.;Remember+to+follow+me+here!)](https://git.io/typing-svg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: HTML & CSS & JavaScript
+Hello everyone! Welcome to Jst Tan Github! I am a web developer, video editor and story writer, based in Malaysia and influence in English and Chinese. I am the owner and manager of JstMStudio.  
 
 ## Badge
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -19,18 +17,17 @@ Skills: HTML & CSS & JavaScript
   - 👨‍💻 Web Developer
   - ✍️ Story writing
 - 👍 Skills: 
-  - Code: HTML & CSS   
-- 👨‍💻 I am a frontend web developer. 
-  - I developed websites and web app. 
-  - I am a self taught devs. 
-- 📹 I also a video editor.
-  -  I edit and create videos using Capcut for cuts, Final Cut Pro for overall editing and Canva for designing. I learning Blender too. 
-  -  I am a self taught video editor. 
-- ✍️ I am a story writer too, mostly write fan fiction story. 
+  - 👨‍💻 Code: HTML & CSS & JavaScript
+  - 📹 Video Editor: Beginner Grade
+  - ✍️ Story Writing: Beginner Grade  
+- 👨‍💻 I am a frontend web developer. I developed websites and web app. 
+- 📹 I also a video editor. I edit and create videos using Capcut for cuts, Final Cut Pro for overall editing and Canva for designing. I learning Blender too. 
+- ✍️ I am a story writer too, mostly write fan fiction and sci-fi story. 
 - 📫 I active in Facebook only. DMs are kinda full so please do not spam mine dms. 
-- I currently fully own and founded JstMStudio, a indie team focused in privacy and technology. 
+- 🏘️ I currently fully own and founded JstMStudio, a indie team focused in privacy and technology. 
   - I also the current team manager, finances and developer of JstMStudio.  
   - I also the main creator and writer of Teenager Heroes. 
+- 👨🏻‍🏫 I am a self-taught web developer and video editor.  
   
 ## Current Projects
 - Jst Tan project
@@ -55,5 +52,3 @@ Skills: HTML & CSS & JavaScript
 
 ## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jst-Tan&show_icons=true&theme=transparent)
-![Jst Tan GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Jst-Tan)
-
