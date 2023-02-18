@@ -55,7 +55,8 @@
 ![I am A Web Developer](https://jstmstudio.tk)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jst-Tan&left_color=green&right_color=red)
 ![Jst Tan GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Jst-Tan)
-{{ COMMITS }}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jst-Tan&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
