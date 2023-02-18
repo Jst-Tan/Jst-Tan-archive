@@ -1,7 +1,5 @@
 # Portfolio
-Jst Tan have a middle-sized portfolio, with more then 2 years of experience in web development and worked on 5 projects during the period. 
-
-Jst Tan got most of the experience during the lockdown phase of the pandemic, which everyone stayed at home. 
+Jst Tan have a middle-sized portfolio, with more then 2 years of experience in web development and worked on 5 projects during the period. Jst Tan got most of the experience during the lockdown phase of the pandemic, which everyone stayed at home. 
 
 # Teams
 ## JstMStudio (September 2022-Current)
