@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Jst Tan
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Jst+Tan+profile!;I+am+a+frontend+web+developer.;I+am+a+story+writer.;Remember+to+follow+me+here!)](https://git.io/typing-svg)
 
-Hello everyone! Welcome to Jst Tan Github! I am a web developer, video editor and story writer, based in Malaysia and influence in English and Chinese. I am the owner and manager of JstMStudio.  
+Hello everyone! Welcome to Jst Tan Github! I am a web developer, video editor and story writer, based in Malaysia and influence in English and Chinese. I am the owner and manager of JstMStudio. Remember to follow me. 
 
 ## Badge
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
