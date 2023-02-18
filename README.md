@@ -50,8 +50,8 @@
 <br>
 <hr>
 <br>
-## Hi there 👋, My Name is Jst Tan
-### I am A Web Developer
+<h2>Hi there 👋, My Name is Jst Tan</h2>
+<h3>I am A Web Developer</h3>
 ![I am A Web Developer](https://jstmstudio.tk)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jsttan&left_color=green&right_color=red)
 {{ COMMITS }}
