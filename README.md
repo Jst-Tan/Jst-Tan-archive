@@ -1,6 +1,3 @@
-# Jst Tan
-Hello and welcome to my Github profile 👋. I am Jst Tan! 
-
 ## About Me
 - Name: Jst Tan
 - Birthday: May 21
@@ -53,8 +50,8 @@ Hello and welcome to my Github profile 👋. I am Jst Tan!
 <br>
 <hr>
 <br>
-### Hi there 👋, My Name is Jst Tan
-#### I am A Web Developer
+## Hi there 👋, My Name is Jst Tan
+### I am A Web Developer
 ![I am A Web Developer](https://jstmstudio.tk)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jsttan&left_color=green&right_color=red)
 {{ COMMITS }}
