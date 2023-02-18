@@ -55,7 +55,7 @@ Hello and welcome to my Github profile 👋. I am Jst Tan!
 <br>
 <hr>
 <br>
-<img src="Image/Profile.jpg" style="width:100%;height:100px;"></img>
+<img src="Image/Profile.jpg" style="width:100%;height:100%;"></img>
 <h1>Jst Tan</h1>
 
 <h2>My Github Stats</h2>
