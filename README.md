@@ -49,14 +49,25 @@ Hello and welcome to my Github profile 👋. I am Jst Tan!
 - <a href="https://app.revolt.chat">Revolt (@Jst_Tan)</a>
 
 ## Social Media Feeds
-### Twitter
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jestonjst)](https://github.com/gazf/github-readme-twitter)
 
 <br>
 <hr>
 <br>
-<img src="Image/Profile.jpg" style="width:100%;height:100%;"></img>
-<h1>Jst Tan</h1>
+### Hi there 👋, My Name is Jst Tan
+#### I am A Web Developer
+![I am A Web Developer](https://jstmstudio.tk)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jsttan&left_color=green&right_color=red)
+{{ COMMITS }}
 
-<h2>My Github Stats</h2>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: HTML & CSS & JavaScript
+
+- 🔭 I’m currently working on this page. 
+
+<br>
+<hr>
+<br>
+## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
