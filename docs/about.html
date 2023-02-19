@@ -1,1 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Us</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
 
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: black;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  text-align: center;
+}
+
+.sidebar a {
+  display: block;
+  color: yellow;
+  padding: 16px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 100%;
+  color: blue;
+  background-color: yellow;
+  text-align: center;
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+<h2 style="color:yellow;">Jst Tan</h2>
+  <a href="index.html">Home</a>
+  <a class="active" href="about.html">About</a>
+  <a href="services.html">Services</a>
+  <a href="community.html">Community</a>
+  <a href="contact.html">Contact</a>
+  <a href="donation.html">Donation</a>
+  <a href="portfolio.html">Portfolio</a>
+  <a href="project.html">Project</a>
+  <a href="books.html">Books</a>
+  <a href="video.html">Video</a>
+  <a href="blog.html">Blog</a>
+</div>
+
+<div class="content">
+<h1>About Me</h1>
+<p>Jst Tan is a Malaysian Chinese. Jst Tan is a Chinese teens living inside Malaysia and currently available in both Chinese and English. Jst Tan is the owner and CEO of JstMStudio, a personal studio founded by himself. </p> 
+<br>
+<hr>
+<br>
+<h2>Web Developer</h2>
+<p>Jst Tan is a experienced frontend web developer, mostly prefer using HTML & CSS and Javascript. Jst Tan had developed many websites since his entry into web development in 2021. Jst Tan had involved many web development projects like Apado Chat, One Future Unified Team App, One Unified Future Platform, JstMStudio Platform and JstMStudio Super App.</p> 
+<br>
+<hr>
+<br>
+<h2>Creative & Story Writer</h2>
+<p>Jst Tan is a beginner story writer. Jst Tan favoured writing science-fiction book series, however some times will write about fan fiction stories. Jst Tan is currently the head writer and creator of Teenager Heroes and many upcoming book series.</p>
+<p>Jst Tan is a creative writer too, currently writing on multiple types of blogs and social media. Jst Tan currently maintain his personal freemium blog, PJ Masks fan blog, JstMStudio blog, One Unified Future blog and Teenager Heroes blog. Jst Tan also a social media writer, frequently write on social media. </p> 
+<br>
+<hr>
+<br>
+<h2>Video Editor</h2>
+<p>Jst Tan is a video editor as well. Jst Tan edit and made videos using many video editing software, like Final Cut Pro, IMovie, Capcut and sometimes with Blender as well. Jst Tan is a beginner video editor that make and edit simple videos. </p>
+<br>
+<hr>
+<br>
+<h2>Wiki Editor</h2>
+<p>Jst Tan is a ex-wiki editor. Jst Tan was an ex-wiki editor on Fandom, Wikipedia and Miraheze. Jst Tan usually edits information that lack of context or incorrect content. Jst Tan is an experienced wiki editor. </p>
+</div>
+
+<script src="https://swetrix.org/swetrix.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    swetrix.init('wYffC5iFIUvR')
+    swetrix.trackViews()
+  })
+</script>
+<noscript>
+  <img
+    src="https://api.swetrix.com/log/noscript?pid=wYffC5iFIUvR"
+    alt=""
+    referrerpolicy="no-referrer-when-downgrade"
+  />
+</noscript>
+</body>
+</html>
