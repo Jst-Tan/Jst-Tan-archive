@@ -1,1 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
 
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: black;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  text-align: center;
+}
+
+.sidebar a {
+  display: block;
+  color: yellow;
+  padding: 16px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 100%;
+  color: blue;
+  background-color: yellow;
+  text-align: center;
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
+
+
+/* CSS */
+.button-3 {
+  appearance: none;
+  background-color: #02eefa;
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+  box-sizing: border-box;
+  color: purple;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 20px;
+  padding: 12px 24px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.button-3:focus:not(:focus-visible):not(.focus-visible) {
+  box-shadow: none;
+  outline: none;
+}
+
+.button-3:hover {
+  background-color: #2c974b;
+}
+
+.button-3:focus {
+  box-shadow: rgba(46, 164, 79, .4) 0 0 0 3px;
+  outline: none;
+}
+
+.button-3:disabled {
+  background-color: #94d3a2;
+  border-color: rgba(27, 31, 35, .1);
+  color: rgba(255, 255, 255, .8);
+  cursor: default;
+}
+
+.button-3:active {
+  background-color: #298e46;
+  box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+}
+
+/* Services */
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+  height: 400px;
+  padding: 10px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+
+<div class="sidebar">
+<h2 style="color:yellow;">Jst Tan</h2>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="services.html">Services</a>
+  <a href="community.html">Community</a>
+  <a href="contact.html">Contact</a>
+  <a href="donation.html">Donation</a>
+  <a href="portfolio.html">Portfolio</a>
+  <a href="project.html">Project</a>
+  <a href="books.html">Books</a>
+  <a href="video.html">Video</a>
+  <a class="active" href="blog.html">Blog</a>
+</div>
+
+<div class="content">
+<br>
+<h1>Jst Tan's Blog</h1>
+<p>Welcome to my personal blog! A place where I post about my book writing journey, web development tips, and many more stuff. I also post about open source software, privacy and much more stuff in my personal blog for everyone to enjoy. </p>
+<br>
+<hr>
+<br>
+<h1>All Posts <i class='bx bx-repost' ></i></h1>
+<a href="">
+<div style="border: 1px solid #ccc;color:purple;margin-top:10px;">
+  <h2>Lorem Ipsum</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet mauris dolor. Mauris imperdiet ligula vitae massa vehicula, et hendrerit mauris tempor. Nullam pulvinar elit at elementum hendrerit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam non fermentum tellus. Morbi et orci non enim molestie blandit eu at tortor. Ut suscipit, mauris vel luctus fermentum, turpis ex fermentum ipsum, nec ullamcorper diam mauris ac felis.</p>
+</div>
+</a>
+
+<a href="">
+<div style="border: 1px solid #ccc;color:purple;margin-top:10px;">
+  <h2>Lorem Ipsum</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet mauris dolor. Mauris imperdiet ligula vitae massa vehicula, et hendrerit mauris tempor. Nullam pulvinar elit at elementum hendrerit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam non fermentum tellus. Morbi et orci non enim molestie blandit eu at tortor. Ut suscipit, mauris vel luctus fermentum, turpis ex fermentum ipsum, nec ullamcorper diam mauris ac felis.</p>
+</div>
+</a>
+<a href="">
+<div style="border: 1px solid #ccc;color:purple;margin-top:10px;">
+  <h2>Lorem Ipsum</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet mauris dolor. Mauris imperdiet ligula vitae massa vehicula, et hendrerit mauris tempor. Nullam pulvinar elit at elementum hendrerit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam non fermentum tellus. Morbi et orci non enim molestie blandit eu at tortor. Ut suscipit, mauris vel luctus fermentum, turpis ex fermentum ipsum, nec ullamcorper diam mauris ac felis.</p>
+</div>
+</a>
+<a href="">
+<div style="border: 1px solid #ccc;color:purple;margin-top:10px;">
+  <h2>Lorem Ipsum</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet mauris dolor. Mauris imperdiet ligula vitae massa vehicula, et hendrerit mauris tempor. Nullam pulvinar elit at elementum hendrerit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam non fermentum tellus. Morbi et orci non enim molestie blandit eu at tortor. Ut suscipit, mauris vel luctus fermentum, turpis ex fermentum ipsum, nec ullamcorper diam mauris ac felis.</p>
+</div>
+</a>
+<br>
+<hr>
+<br>
+<h2>Who am I? <i class='bx bx-buildings'></i></h2>
+<p>My name is Jeston, but my nickname online is Jst Tan. I am a stay-at-home web developer, book author, video editor, logo & poster designer based in Malaysia. I am frequent in English and Mandarin Chinese. I am a 2 years experienced web developer and beginner-grade book author and video editor. </p>
+</div>
+
+<script src="https://swetrix.org/swetrix.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    swetrix.init('wYffC5iFIUvR')
+    swetrix.trackViews()
+  })
+</script>
+<noscript>
+  <img
+    src="https://api.swetrix.com/log/noscript?pid=wYffC5iFIUvR"
+    alt=""
+    referrerpolicy="no-referrer-when-downgrade"
+  />
+</noscript>
+
+
+</body>
+</html>
