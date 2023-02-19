@@ -1,1 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Services</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
 
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: black;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+  text-align: center;
+}
+
+.sidebar a {
+  display: block;
+  color: yellow;
+  padding: 16px;
+  text-decoration: none;
+}
+ 
+.sidebar a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+  color: blue;
+  background-color: yellow;
+  text-align: center;
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {float: left;}
+  div.content {margin-left: 0;}
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+<h2 style="color:yellow;">Jst Tan</h2>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a class="active" href="services.html">Services</a>
+  <a href="community.html">Community</a>
+  <a href="contact.html">Contact</a>
+  <a href="donation.html">Donation</a>
+  <a href="portfolio.html">Portfolio</a>
+  <a href="project.html">Project</a>
+  <a href="books.html">Books</a>
+  <a href="video.html">Video</a>
+  <a href="blog.html">Blog</a>
+</div>
+
+<div class="content">
+<h1>Services</h1>
+<p>Jst Tan currently provided many types of services. Jst Tan currently provides 4 services for our clients and customers. Jst Tan will expand to more services in the future. All services will be provided in high-quality. </p>
+
+<ul style="text-align:left;">
+<li>Web Development & Maintenance: Jst Tan is an experienced web developer, with over 2 years experience. Jst Tan had developed many websites, app and software. Jst Tan develop and maintain websites for our clients and customers. </li>
+<br>
+<li>Story Writing: Jst Tan is a beginner-grade story writer and book author. Jst Tan write many independent book and currently working on many book series. Jst Tan currently write many book like Teenager Heroes, JstMStudio Notes and much more. Jst Tan currently don't have much books published through. </li>
+<br>
+<li>Video Editing: Jst Tan is a beginner-grade video editing. Jst Tan edits video using Final Cut Pro, IMovie and Capcut. Jst Tan is a beginner-grade self-taught video editor. </li>
+<br>
+<li>Logo & Poster Designing: Jst Tan also design logo and posters for our client. Jst Tan design many logo and poster in the span of years for personal and business use as well.</li>
+</ul>
+</div>
+
+<script src="https://swetrix.org/swetrix.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    swetrix.init('wYffC5iFIUvR')
+    swetrix.trackViews()
+  })
+</script>
+<noscript>
+  <img
+    src="https://api.swetrix.com/log/noscript?pid=wYffC5iFIUvR"
+    alt=""
+    referrerpolicy="no-referrer-when-downgrade"
+  />
+</noscript>
+
+
+</body>
+</html>
