@@ -9,5 +9,4 @@
 <li>Video Editing: Jst Tan is a beginner-grade video editing. Jst Tan edits video using Final Cut Pro, IMovie and Capcut. Jst Tan is a beginner-grade self-taught video editor. </li>
 <br>
 <li>Logo & Poster Designing: Jst Tan also design logo and posters for our client. Jst Tan design many logo and poster in the span of years for personal and business use as well.</li>
-<li></li>
 </ul>
